@@ -40,6 +40,9 @@ This is a proof of concept for using minimal APIs to create a simple API that al
 7. Go to the MyMinimalApi project directory.
 8. Run the MyMinimalApi project using the following command: `dotnet run`.
 9. Play with the API either directly in the browser or using the Postman tool.
+10. Go to the MyMinimalApi project directory.
+11. Run the MyMinimalApi project using the following command: `dotnet run`.
+12. Play with the API either directly in the browser or using the Postman tool.
 
 Et voilà!
 <br/>
